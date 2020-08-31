@@ -13,5 +13,9 @@ z = "I like turtles!"
 # x is 10, y is 2.25, z is "I like turtles!"
 
 # Use the 'format' string method to print the same thing
+txt1 = 'Format string method {}, {}, {}'.format(x, y, z)
+print(txt1)
 
 # Finally, print the same thing using an f-string
+
+print(f'F string method {y} , {x}, {z}')
