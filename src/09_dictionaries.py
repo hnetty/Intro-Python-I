@@ -44,5 +44,7 @@ print(waypoints)
 
 # YOUR CODE HERE
 
+
+
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
